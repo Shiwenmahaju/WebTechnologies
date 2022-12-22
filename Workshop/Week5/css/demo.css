@@ -1,0 +1,51 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&family=Rubik+Vinyl&display=swap'); 
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body
+    /* background-image:url("image/download.jpg");
+    background-repeat: no-repeat;
+    bac
+}
+
+
+#box1{
+    background-color: rgb(0, 0, 241);
+    border-style: double;
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+#box2{
+    background-color: rgb(255, 0, 102);
+    border-style: double;
+    width: 250px;
+    height: 250px;
+    border: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+
+}
+#box3{
+    background-color: rgb(21, 255, 0);
+    border-style: double;
+    width: 250px;
+    height: 250px;
+    border: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+#box4{
+    background-color: rgb(64, 0, 255);
+    border-style: double;
+    width: 250px;
+    height: 250px;
+    border: 10px;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+} */
