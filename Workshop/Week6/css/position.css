@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    background-color:orange;
+    color:black;
+    text-shadow: 2px 2px red;
+    position: fixed;
+    top:0px;
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    background-color:aqua;
+    color:black;
+    text-shadow: 2px 2px blue;  
+    position: relative;
+    left:50px;
+}
+
